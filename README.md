@@ -1,13 +1,13 @@
-## Hello!
+## Hello! ✨✨
 
 -----
 
-My full name is Muhammad Fajrian Nur Ibrahim, you can call me Fajrian, I'm also known as `iyankdesu` and `arunika`, why ?
+My full name is Muhammad Fajrian Nur Ibrahim 🤚, you can call me Fajrian 🍂, I'm also known as `iyankdesu` and `arunika`, why ?
 
-Well, Iyank is my childhood name, and Arunika is another version of name (?) i guess ?, it has the same meaning (Rise of the Sun).
+Well, Iyank 🌿 is my childhood name, and Arunika 🌼 is another version of my name i guess ?, it has the same meaning (Rise of the Sun).
 
 
-### Find me on :
+### Find me on ✉ :
 
 -----
 
@@ -16,7 +16,7 @@ Well, Iyank is my childhood name, and Arunika is another version of name (?) i g
 - [Twitter](https://twitter.com/iyankdesu)
 
 
-### Don't forget to visit my blog
+### Don't forget to visit my blog 🌐
 
 -----
 
