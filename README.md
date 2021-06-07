@@ -1,5 +1,7 @@
 ### About me
-Not a developer and without work experience, but with a great desire to learn. I just learn how to code because of hobby after all.
+Not a developer and of course without work experience, but with a great desire to learn.
+Don't forget to visit my Github Pages
+[![Blog](https://img.shields.io/badge/Iyankdesu.github.io-FAD7A0?style=for-the-badge)](https://iyankdesu.github.io/)
 
 ### Languages
 [![HTML](https://img.shields.io/badge/HTML-FAD7A0?style=for-the-badge)](https://html.com/)
