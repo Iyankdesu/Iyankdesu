@@ -3,12 +3,12 @@ Not a developer and of course without work experience, but with a great desire t
 
 Don't forget to visit my Github Pages.
 
-[![Blog](https://img.shields.io/badge/Iyankdesu.github.io-FAD7A0?style=for-the-badge)](https://iyankdesu.github.io/)
+[![Blog](https://img.shields.io/badge/Iyankdesu.github.io-f8f3d4?style=for-the-badge)](https://iyankdesu.github.io/)
 
 ### Languages
-[![HTML](https://img.shields.io/badge/HTML-00b8a9?style=for-the-badge)](https://html.com/)
-[![CSS](https://img.shields.io/badge/CSS-F8D1A4?style=for-the-badge)](http://www.css3.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F5CBA7?style=for-the-badge)](http://www.ecmascript.org/)
+[![HTML](https://img.shields.io/badge/HTML-f6416c?style=for-the-badge)](https://html.com/)
+[![CSS](https://img.shields.io/badge/CSS-00b8a9?style=for-the-badge)](http://www.css3.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ffde7d?style=for-the-badge)](http://www.ecmascript.org/)
 [![C](https://img.shields.io/badge/C-F5CBA7?style=for-the-badge)](#)
 
 ### Tools
