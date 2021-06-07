@@ -11,4 +11,4 @@ Not a developer and without work experience, but with a great desire to learn. I
 [![Linux](https://img.shields.io/badge/Linux-FAD7A0?style=for-the-badge&logo=linux&logoColor=white)](https://manjarolinux.org/)[![Bash](https://img.shields.io/badge/Bash-F8D1A4?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)[![Git](https://img.shields.io/badge/Git-F5CBA7?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![Geany](https://img.shields.io/badge/Geany-F1C3A0?style=for-the-badge&logo=geany&logoColor=white)](https://geany.org/)
 
 ### Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-FAD7A0?)](https://t.me/iyankdesu)
+[![Telegram](https://img.shields.io/badge/Telegram-FAD7A0?style=for-the-badge)](https://t.me/iyankdesu)
