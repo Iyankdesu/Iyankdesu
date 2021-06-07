@@ -1,25 +1,14 @@
-### Hi, I'm Iyankdesu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### About me
+Not a developer and without work experience, but with a great desire to learn. I just learn how to code because of hobby after all.
 
-[![Website](https://img.shields.io/badge/?Noob-Person=Check-my-blog&logo=appveyor?style=flat-square)](https://iyankdesu.github.io)
+### Languages
+[![HTML](https://img.shields.io/badge/HTML-FAD7A0?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)[![CSS](https://img.shields.io/badge/CSS-F8D1A4?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F5CBA7?style=for-the-badge&logo=javascript&logoColor=white)](http://www.ecmascript.org/)
 
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=white)](http://www.ecmascript.org/)
 
-## Your short description
+### Tools
+[![Linux](https://img.shields.io/badge/Linux-FAD7A0?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)[![Bash](https://img.shields.io/badge/Bash-F8D1A4?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)[![Git](https://img.shields.io/badge/Git-F5CBA7?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![Vim](https://img.shields.io/badge/Vim-F1C3A0?style=for-the-badge&logo=vim&logoColor=white)](https://git-scm.com/)
 
-My full name is Muhammad Fajrian Nur Ibrahim 🤚, you can call me Fajrian 🍂, I'm also known as `iyankdesu` and `arunika`, why ?
-
-Well, Iyank 🌿 is my childhood name, and Arunika 🌼 is another version of my name i guess ?, it has the same meaning (Rise of the Sun).
-
-- 🥅 2021 Goal - Mastering C-Lang
-- ⚡ Fun fact - I love reading books
-
-## Connect with me:
-
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-
-<!-- This section you create this variables that are used above -->
-[website]: https://iyankdesu.github.io
-[twitter]: https://twitter.com/iyankdesu
-[instagram]: https://instagram.com/iyankdesu
+### Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-FAD7A0?style=for-the-badge&logo=discord&logoColor=white)](https://t.me/iyankdesu)
