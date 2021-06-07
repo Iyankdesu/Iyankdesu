@@ -1,6 +1,8 @@
 ### About me
 Not a developer and of course without work experience, but with a great desire to learn.
-Don't forget to visit my Github Pages
+
+Don't forget to visit my Github Pages.
+
 [![Blog](https://img.shields.io/badge/Iyankdesu.github.io-FAD7A0?style=for-the-badge)](https://iyankdesu.github.io/)
 
 ### Languages
