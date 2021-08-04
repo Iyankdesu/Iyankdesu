@@ -1,6 +1,9 @@
-![Header](https://github.com/Iyankdesu/Iyankdesu/blob/main/assets/banner.png)
+![](https://github.com/Iyankdesu/Iyankdesu/blob/main/assets/banner.png)
+
+
 
 ### About me
+
 Not a developer and of course without work experience, but with a great desire to learn.
 
 Don't forget to visit my Github Pages.
