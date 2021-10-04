@@ -12,5 +12,5 @@ Don't forget to visit my Github Pages.
 [![HTML](https://img.shields.io/badge/HTML-f6416c?style=for-the-badge)](https://html.com/)
 [![CSS](https://img.shields.io/badge/CSS-46cdcf?style=for-the-badge)](http://www.css3.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffde7d?style=for-the-badge&logo=javascript&logoColor=white)](http://www.ecmascript.org/)
-[![C](https://img.shields.io/badge/C-f9f7f7?style=for-the-badge&logo=C&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://isocpp.org)
+[![C](https://img.shields.io/badge/C Programming Language-6295cb?style=for-the-badge&logo=C&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++ Programming Language-6295cb?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://isocpp.org)
