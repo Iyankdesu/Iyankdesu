@@ -6,9 +6,10 @@
 
 Not a developer and of course without work experience, but with a great desire to learn.
 
-Don't forget to visit my Github Pages.
+Don't forget to visit my Github Pages and my blog.
 
 [![Blog](https://img.shields.io/badge/Iyankdesu.github.io-364f6b?style=for-the-badge)](https://iyankdesu.github.io/)
+[![Blog](https://img.shields.io/badge/Iyankdesu.medium.com-364f6b?style=for-the-badge)](https://iyankdesu.medium.com/)
 
 ### Languages
 [![HTML](https://img.shields.io/badge/HTML-f6416c?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
